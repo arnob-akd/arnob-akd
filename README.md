@@ -6,6 +6,16 @@
 
 </div>
 
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/About-0A66C2?style=for-the-badge" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Skills-8A2BE2?style=for-the-badge" /></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Achievements-F59E0B?style=for-the-badge" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-10B981?style=for-the-badge" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-EF4444?style=for-the-badge" /></a>
+</p>
+
+<a id="about"></a>
+
 ## 👋 About Me
 
 - 🎓 I'm **Arnob Das**, a 3rd-year Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**.
@@ -14,6 +24,10 @@
 - 🔧 Recently, I've been building **my own C compiler** using the C language.
 - 🤖 I'm also working on an **AI agent that checks prize bond results**.
 - 🔬 I'm interested in **research** and love exploring new ideas.
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
+
 
 ## 🌐 Connect With Me
 
@@ -29,6 +43,7 @@
   </a>
 </p>
 
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -41,6 +56,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnob-akd&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
 ## ⚔️ Competitive Programming
 
@@ -48,6 +68,36 @@
   <a href="https://codeforces.com/profile/Arnobakd">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arnobakd&theme=dark" />
   </a>
+</p>
+
+<details>
+<summary><b>📈 Click to see my coding activity</b></summary>
+
+<br>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Arnobakd">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arnobakd&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+</details>
+
+<a id="achievements"></a>
+
+## 🏆 Achievements
+
+- 🥇 Solved **1000+ problems** across all online judges
+- 📈 Codeforces rating: **1157**
+- ⚔️ Competitive programming experience of **2+ years**, with C++ as my strongest language
+- 🧠 Active on **Codeforces** and **VJudge**
+
+- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnob-akd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </p>
 
 ## 🚀 Featured Projects
@@ -78,6 +128,8 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=PharmacyUser&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
 ## 🚧 Currently Building
 
