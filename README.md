@@ -29,4 +29,18 @@
   </a>
 </p>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,mysql,git,github,idea,postman&theme=dark" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnob-akd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
