@@ -42,5 +42,42 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/arnob-akd/ecommerce-api">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=ecommerce-api&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arnob-akd/broadcast-server">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=broadcast-server&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arnob-akd/caching-proxy">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=caching-proxy&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arnob-akd/Markdown-Note-taking-App">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=Markdown-Note-taking-App&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arnob-akd/task-tracker-cli">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=task-tracker-cli&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arnob-akd/Number-Guessing-Game">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=Number-Guessing-Game&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+## 🚧 Currently Building
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C_Compiler-In_Progress-orange?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prize_Bond_AI_Agent-In_Progress-orange?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  🛠️ <b>C Compiler</b> — my own compiler written in C, starting with the basics and upgrading step by step.<br>
+  🤖 <b>Prize Bond AI Agent</b> — an AI agent that checks prize bond results automatically.
+</p>
+
+
+
 
 
