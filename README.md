@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arnob&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arnob+Das&fontSize=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arnob;Competitive+Programmer;C%2B%2B+%7C+Java+%7C+Learning+C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Arnob+Das;Competitive+Programmer;Backend+Developer+in+the+making;Research+Enthusiast;Java+%7C+C%23+%7C+C%2B%2B+%7C+C" />
 
 </div>
 
@@ -20,14 +20,16 @@
 
 - 🎓 I'm **Arnob Das**, a 3rd-year Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**.
 - 🏆 I'm a competitive programmer with **1000+ problems solved** across all online judges, and my Codeforces rating is **1157**.
+- 💻 I write code in **Java, C#, C++ and C**, and I have a strong understanding of **Object-Oriented Programming (OOP)** concepts, which I apply in my projects.
 - 🌱 I'm currently learning **backend development** and building backend projects.
 - 🔧 Recently, I've been building **my own C compiler** using the C language.
 - 🤖 I'm also working on an **AI agent that checks prize bond results**.
-- 🔬 I'm interested in **research** and love exploring new ideas.
-
+- 🔬 I'm a **research enthusiast** and love exploring new ideas.
+- 🚀 I took part in the **NASA Space Apps Challenge 2026** hackathon and built a project with my team.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
+<a id="connect"></a>
 
 ## 🌐 Connect With Me
 
@@ -43,11 +45,12 @@
   </a>
 </p>
 
+<a id="skills"></a>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,mysql,git,github,idea,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,mysql,git,github,idea,postman&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
@@ -56,7 +59,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnob-akd&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
@@ -87,6 +89,7 @@
 - 📈 Codeforces rating: **1157**
 - ⚔️ Competitive programming experience of **2+ years**, with C++ as my strongest language
 - 🧠 Active on **Codeforces** and **VJudge**
+- 🚀 Participated in the **NASA Space Apps Challenge 2026** hackathon and received the **"Galactic Problem Solver"** certificate
 
 <br>
 
@@ -95,7 +98,21 @@
   <img src="https://img.shields.io/badge/Codeforces_Rating-1157-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Strongest_Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/NASA_Space_Apps-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
 </p>
+
+<details>
+<summary><b>🌌 Click to see my NASA Space Apps Challenge 2026 certificate</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnob-akd/arnob-akd/main/nasa-space-apps-certificate.png" width="700" alt="NASA Space Apps Challenge 2026 certificate - Galactic Problem Solver" />
+</p>
+
+</details>
+
+<a id="projects"></a>
 
 ## 🚀 Featured Projects
 
@@ -118,7 +135,7 @@
   <a href="https://github.com/arnob-akd/Number-Guessing-Game">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=Number-Guessing-Game&theme=tokyonight&hide_border=true" />
   </a>
-    <a href="https://github.com/arnob-akd/Library_Management_System">
+  <a href="https://github.com/arnob-akd/Library_Management_System">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=Library_Management_System&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/arnob-akd/PharmacyUser">
@@ -161,8 +178,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-
-
-
-
-
