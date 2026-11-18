@@ -77,6 +77,18 @@
   🤖 <b>Prize Bond AI Agent</b> — an AI agent that checks prize bond results automatically.
 </p>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnob-akd/arnob-akd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnob-akd/arnob-akd/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/arnob-akd/arnob-akd/output/github-snake.svg" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
 
 
 
