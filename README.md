@@ -42,6 +42,14 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## ⚔️ Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Arnobakd">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arnobakd&theme=dark" />
+  </a>
+</p>
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -62,6 +70,12 @@
   </a>
   <a href="https://github.com/arnob-akd/Number-Guessing-Game">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=Number-Guessing-Game&theme=tokyonight&hide_border=true" />
+  </a>
+    <a href="https://github.com/arnob-akd/Library_Management_System">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=Library_Management_System&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arnob-akd/PharmacyUser">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=PharmacyUser&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -86,6 +100,16 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/arnob-akd/arnob-akd/output/github-snake.svg" />
   </picture>
 </div>
+
+## 💭 Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnob-akd&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 
