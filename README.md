@@ -82,7 +82,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 </details>
@@ -96,8 +95,13 @@
 - ⚔️ Competitive programming experience of **2+ years**, with C++ as my strongest language
 - 🧠 Active on **Codeforces** and **VJudge**
 
-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnob-akd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-1000%2B-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeforces_Rating-1157-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Strongest_Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ## 🚀 Featured Projects
