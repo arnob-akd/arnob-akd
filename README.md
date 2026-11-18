@@ -62,14 +62,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
-## ⚔️ Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Arnobakd">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arnobakd&theme=dark" />
-  </a>
-</p>
-
 <details>
 <summary><b>📈 Click to see my coding activity</b></summary>
 
@@ -82,6 +74,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 </details>
