@@ -59,7 +59,9 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnob-akd&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
 ## ⚔️ Competitive Programming
