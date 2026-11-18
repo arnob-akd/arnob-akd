@@ -21,6 +21,7 @@
 - 🎓 I'm **Arnob Das**, a 3rd-year Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**.
 - 🏆 I'm a competitive programmer with **1000+ problems solved** across all online judges, and my Codeforces rating is **1157**.
 - 💻 I write code in **Java, C#, C++ and C**, and I have a strong understanding of **Object-Oriented Programming (OOP)** concepts, which I apply in my projects.
+- 🗄️ I'm comfortable with databases, especially **MySQL**, which I've used in my **Java and C#** projects.
 - 🌱 I'm currently learning **backend development** and building backend projects.
 - 🔧 Recently, I've been building **my own C compiler** using the C language.
 - 🤖 I'm also working on an **AI agent that checks prize bond results**.
@@ -59,9 +60,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnob-akd&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-akd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true" width="100%" />
 
 ## ⚔️ Competitive Programming
@@ -77,6 +76,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
 </details>
 
 <a id="achievements"></a>
@@ -87,7 +90,7 @@
 - 📈 Codeforces rating: **1157**
 - ⚔️ Competitive programming experience of **2+ years**, with C++ as my strongest language
 - 🧠 Active on **Codeforces** and **VJudge**
-- 🚀 Participated in the **NASA Space Apps Challenge 2026** hackathon and received the **"Galactic Problem Solver"** certificate
+- 🚀 Participated in the **NASA Space Apps Challenge 2026** hackathon and received the **"Galactic Problem Solver"** certificate for building [**AegnyxZero**](https://github.com/HippomasAKiB1/aegnyxzero)
 
 <br>
 
@@ -138,6 +141,9 @@
   </a>
   <a href="https://github.com/arnob-akd/PharmacyUser">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob-akd&repo=PharmacyUser&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/HippomasAKiB1/aegnyxzero">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=HippomasAKiB1&repo=aegnyxzero&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
