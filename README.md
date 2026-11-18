@@ -75,10 +75,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob-akd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 </details>
 
 <a id="achievements"></a>
